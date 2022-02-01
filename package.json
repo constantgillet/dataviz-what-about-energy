@@ -17,8 +17,16 @@
     "url": "https://github.com/angegoua/dataviz-what-about-energy/issues"
   },
   "homepage": "https://github.com/angegoua/dataviz-what-about-energy#readme",
+<<<<<<< HEAD
   "dependencies": {
     "sass": "^1.49.4",
     "three": "^0.137.5"
+=======
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+>>>>>>> dd2a8b6e3c16c908d1c9e89567bd7d21ef5c992f
   }
 }
