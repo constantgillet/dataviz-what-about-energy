@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/angegoua/dataviz-what-about-energy/issues"
   },
-  "homepage": "https://github.com/angegoua/dataviz-what-about-energy#readme"
+  "homepage": "https://github.com/angegoua/dataviz-what-about-energy#readme",
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+  }
 }
