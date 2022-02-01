@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/angegoua/dataviz-what-about-energy/issues"
   },
-  "homepage": "https://github.com/angegoua/dataviz-what-about-energy#readme"
+  "homepage": "https://github.com/angegoua/dataviz-what-about-energy#readme",
+  "dependencies": {
+    "sass": "^1.49.4",
+    "three": "^0.137.5"
+  }
 }
