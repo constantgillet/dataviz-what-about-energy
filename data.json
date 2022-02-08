@@ -1,0 +1,1382 @@
+[
+    {
+        "id": "INTL.44-1-AFG-QBTU.A",
+        "country": "Afghanistan",
+        "production": 0.05521030952760256,
+        "consumption": 0.12274842133951257
+    },
+    {
+        "id": "INTL.44-1-ALB-QBTU.A",
+        "country": "Albania",
+        "production": 0.08908229857345225,
+        "consumption": 0.11074824093269141
+    },
+    {
+        "id": "INTL.44-1-DZA-QBTU.A",
+        "country": "Algeria",
+        "production": 6.429790182459667,
+        "consumption": 2.643502654452609
+    },
+    {
+        "id": "INTL.44-1-ASM-QBTU.A",
+        "country": "American Samoa",
+        "production": 0,
+        "consumption": 0.004911508895818637
+    },
+    {
+        "id": "INTL.44-1-AGO-QBTU.A",
+        "country": "Angola",
+        "production": 3.5102084014823185,
+        "consumption": 0.372427780585
+    },
+    {
+        "id": "INTL.44-1-ATA-QBTU.A",
+        "country": "Antarctica",
+        "production": 0,
+        "consumption": 0.0001865087
+    },
+    {
+        "id": "INTL.44-1-ATG-QBTU.A",
+        "country": "Antigua and Barbuda",
+        "production": 0.00013356,
+        "consumption": 0.0104000061
+    },
+    {
+        "id": "INTL.44-1-ARG-QBTU.A",
+        "country": "Argentina",
+        "production": 3.4933678361664637,
+        "consumption": 3.545507099370268
+    },
+    {
+        "id": "INTL.44-1-ARM-QBTU.A",
+        "country": "Armenia",
+        "production": 0.04490399116,
+        "consumption": 0.15681441220195597
+    },
+    {
+        "id": "INTL.44-1-ABW-QBTU.A",
+        "country": "Aruba",
+        "production": 0.001306323648,
+        "consumption": 0.018564764847999998
+    },
+    {
+        "id": "INTL.44-1-AUS-QBTU.A",
+        "country": "Australia",
+        "production": 18.027629170220145,
+        "consumption": 6.19301462465028
+    },
+    {
+        "id": "INTL.44-1-AUT-QBTU.A",
+        "country": "Austria",
+        "production": 0.5674874989252223,
+        "consumption": 1.5220260353460784
+    },
+    {
+        "id": "INTL.44-1-AZE-QBTU.A",
+        "country": "Azerbaijan",
+        "production": 2.518580542592398,
+        "consumption": 0.6472366689189806
+    },
+    {
+        "id": "INTL.44-1-BHR-QBTU.A",
+        "country": "Bahrain",
+        "production": 1.1156651018182526,
+        "consumption": 0.8130655406214
+    },
+    {
+        "id": "INTL.44-1-BGD-QBTU.A",
+        "country": "Bangladesh",
+        "production": 1.1091070821938183,
+        "consumption": 1.6166327357480461
+    },
+    {
+        "id": "INTL.44-1-BRB-QBTU.A",
+        "country": "Barbados",
+        "production": 0.0030492033848210013,
+        "consumption": 0.024030263052293
+    },
+    {
+        "id": "INTL.44-1-BLR-QBTU.A",
+        "country": "Belarus",
+        "production": 0.08539150316922593,
+        "consumption": 0.9691333127787114
+    },
+    {
+        "id": "INTL.44-1-BEL-QBTU.A",
+        "country": "Belgium",
+        "production": 0.630353981382,
+        "consumption": 2.6911279074035623
+    },
+    {
+        "id": "INTL.44-1-BLZ-QBTU.A",
+        "country": "Belize",
+        "production": 0.00740675942,
+        "consumption": 0.01231617632
+    },
+    {
+        "id": "INTL.44-1-BEN-QBTU.A",
+        "country": "Benin",
+        "production": 0.00007265664,
+        "consumption": 0.09997977143553552
+    },
+    {
+        "id": "INTL.44-1-BMU-QBTU.A",
+        "country": "Bermuda",
+        "production": 0,
+        "consumption": 0.0110296034
+    },
+    {
+        "id": "INTL.44-1-BTN-QBTU.A",
+        "country": "Bhutan",
+        "production": 0.08280515127961671,
+        "consumption": 0.07639004001113224
+    },
+    {
+        "id": "INTL.44-1-BOL-QBTU.A",
+        "country": "Bolivia",
+        "production": 0.6942792443655301,
+        "consumption": 0.311932658697
+    },
+    {
+        "id": "INTL.44-1-BIH-QBTU.A",
+        "country": "Bosnia and Herzegovina",
+        "production": 0.15308856620793218,
+        "consumption": 0.2373040737305843
+    },
+    {
+        "id": "INTL.44-1-BWA-QBTU.A",
+        "country": "Botswana",
+        "production": 0.04722272332661528,
+        "consumption": 0.07854526409711277
+    },
+    {
+        "id": "INTL.44-1-BRA-QBTU.A",
+        "country": "Brazil",
+        "production": 12.713242877624022,
+        "consumption": 12.557423835357312
+    },
+    {
+        "id": "INTL.44-1-VGB-QBTU.A",
+        "country": "British Virgin Islands",
+        "production": 0.000013872432,
+        "consumption": 0.002406731032
+    },
+    {
+        "id": "INTL.44-1-BRN-QBTU.A",
+        "country": "Brunei",
+        "production": 0.7275022125763975,
+        "consumption": 0.1798366962608
+    },
+    {
+        "id": "INTL.44-1-BGR-QBTU.A",
+        "country": "Bulgaria",
+        "production": 0.4503569411701565,
+        "consumption": 0.7332243199908047
+    },
+    {
+        "id": "INTL.44-1-BFA-QBTU.A",
+        "country": "Burkina Faso",
+        "production": 0.00191436,
+        "consumption": 0.0660440724
+    },
+    {
+        "id": "INTL.44-1-MMR-QBTU.A",
+        "country": "Burma",
+        "production": 0.8169968267344525,
+        "consumption": 0.5771641983724072
+    },
+    {
+        "id": "INTL.44-1-BDI-QBTU.A",
+        "country": "Burundi",
+        "production": 0.002081648352,
+        "consumption": 0.012540838052
+    },
+    {
+        "id": "INTL.44-1-CPV-QBTU.A",
+        "country": "Cabo Verde",
+        "production": 0.000792456,
+        "consumption": 0.0145917944
+    },
+    {
+        "id": "INTL.44-1-KHM-QBTU.A",
+        "country": "Cambodia",
+        "production": 0.0375241272,
+        "consumption": 0.22469348641529582
+    },
+    {
+        "id": "INTL.44-1-CMR-QBTU.A",
+        "country": "Cameroon",
+        "production": 0.2973821982338688,
+        "consumption": 0.16053274132133993
+    },
+    {
+        "id": "INTL.44-1-CAN-QBTU.A",
+        "country": "Canada",
+        "production": 23.5186004308814,
+        "consumption": 14.97790517950626
+    },
+    {
+        "id": "INTL.44-1-CYM-QBTU.A",
+        "country": "Cayman Islands",
+        "production": 0.00014393316,
+        "consumption": 0.01139856546
+    },
+    {
+        "id": "INTL.44-1-CAF-QBTU.A",
+        "country": "Central African Republic",
+        "production": 0.0013356,
+        "consumption": 0.0053177662
+    },
+    {
+        "id": "INTL.44-1-TCD-QBTU.A",
+        "country": "Chad",
+        "production": 0.291612936,
+        "consumption": 0.0251233299
+    },
+    {
+        "id": "INTL.44-1-CHL-QBTU.A",
+        "country": "Chile",
+        "production": 0.4322306133785894,
+        "consumption": 1.560052674194422
+    },
+    {
+        "id": "INTL.44-1-CHN-QBTU.A",
+        "country": "China",
+        "production": 123.59135959298148,
+        "consumption": 151.60888604436144
+    },
+    {
+        "id": "INTL.44-1-COL-QBTU.A",
+        "country": "Colombia",
+        "production": 5.073328043963993,
+        "consumption": 1.753107333274276
+    },
+    {
+        "id": "INTL.44-1-COM-QBTU.A",
+        "country": "Comoros",
+        "production": 0.0000035616,
+        "consumption": 0.0045497505
+    },
+    {
+        "id": "INTL.44-1-COG-QBTU.A",
+        "country": "Congo-Brazzaville",
+        "production": 0.7664154790154,
+        "consumption": 0.08692788392484
+    },
+    {
+        "id": "INTL.44-1-COD-QBTU.A",
+        "country": "Congo-Kinshasa",
+        "production": 0.13348309430398478,
+        "consumption": 0.11928103224579682
+    },
+    {
+        "id": "INTL.44-1-COK-QBTU.A",
+        "country": "Cook Islands",
+        "production": 0.000095531016,
+        "consumption": 0.001671732316
+    },
+    {
+        "id": "INTL.44-1-CRI-QBTU.A",
+        "country": "Costa Rica",
+        "production": 0.10046142792,
+        "consumption": 0.22663028124463863
+    },
+    {
+        "id": "INTL.44-1-HRV-QBTU.A",
+        "country": "Croatia",
+        "production": 0.14180544164829492,
+        "consumption": 0.36475912689084233
+    },
+    {
+        "id": "INTL.44-1-CUB-QBTU.A",
+        "country": "Cuba",
+        "production": 0.14512363925665542,
+        "consumption": 0.3715677100399377
+    },
+    {
+        "id": "INTL.44-1-CYP-QBTU.A",
+        "country": "Cyprus",
+        "production": 0.00458556,
+        "consumption": 0.11892190713268976
+    },
+    {
+        "id": "INTL.44-1-CZE-QBTU.A",
+        "country": "Czech Republic",
+        "production": 0.9978992060582436,
+        "consumption": 1.730213284965265
+    },
+    {
+        "id": "INTL.44-1-CIV-QBTU.A",
+        "country": "Côte d’Ivoire",
+        "production": 0.19167681865497394,
+        "consumption": 0.212106033525
+    },
+    {
+        "id": "INTL.44-1-DNK-QBTU.A",
+        "country": "Denmark",
+        "production": 0.5454939169824893,
+        "consumption": 0.7221965500121932
+    },
+    {
+        "id": "INTL.44-1-DJI-QBTU.A",
+        "country": "Djibouti",
+        "production": 0.000008904,
+        "consumption": 0.0086314065
+    },
+    {
+        "id": "INTL.44-1-DMA-QBTU.A",
+        "country": "Dominica",
+        "production": 0.000188568912,
+        "consumption": 0.002693758912
+    },
+    {
+        "id": "INTL.44-1-DOM-QBTU.A",
+        "country": "Dominican Republic",
+        "production": 0.01838676,
+        "consumption": 0.418997508110365
+    },
+    {
+        "id": "INTL.44-1-ECU-QBTU.A",
+        "country": "Ecuador",
+        "production": 1.4069200819758962,
+        "consumption": 0.7387865722001973
+    },
+    {
+        "id": "INTL.44-1-EGY-QBTU.A",
+        "country": "Egypt",
+        "production": 4.050868391182273,
+        "consumption": 4.040204142512356
+    },
+    {
+        "id": "INTL.44-1-SLV-QBTU.A",
+        "country": "El Salvador",
+        "production": 0.03770844,
+        "consumption": 0.15568365354897992
+    },
+    {
+        "id": "INTL.44-1-GNQ-QBTU.A",
+        "country": "Equatorial Guinea",
+        "production": 0.49693561728680097,
+        "consumption": 0.07809995135100027
+    },
+    {
+        "id": "INTL.44-1-ERI-QBTU.A",
+        "country": "Eritrea",
+        "production": 0.000213696,
+        "consumption": 0.0112780475
+    },
+    {
+        "id": "INTL.44-1-EST-QBTU.A",
+        "country": "Estonia",
+        "production": 0.01964943624,
+        "consumption": 0.10143948562804142
+    },
+    {
+        "id": "INTL.44-1-SWZ-QBTU.A",
+        "country": "Eswatini",
+        "production": 0.005801763632622098,
+        "consumption": 0.022245642557582313
+    },
+    {
+        "id": "INTL.44-1-ETH-QBTU.A",
+        "country": "Ethiopia",
+        "production": 0.1259657784,
+        "consumption": 0.3608705784410121
+    },
+    {
+        "id": "INTL.44-1-FLK-QBTU.A",
+        "country": "Falkland Islands",
+        "production": 0.0000596568,
+        "consumption": 0.00070601
+    },
+    {
+        "id": "INTL.44-1-FRO-QBTU.A",
+        "country": "Faroe Islands",
+        "production": 0.0014762832,
+        "consumption": 0.013316805
+    },
+    {
+        "id": "INTL.44-1-FJI-QBTU.A",
+        "country": "Fiji",
+        "production": 0.005737942392,
+        "consumption": 0.029280694975181813
+    },
+    {
+        "id": "INTL.44-1-FIN-QBTU.A",
+        "country": "Finland",
+        "production": 0.537721549745,
+        "consumption": 1.1961191624818506
+    },
+    {
+        "id": "INTL.44-1-CSK-QBTU.A",
+        "country": "Former Czechoslovakia",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-SCG-QBTU.A",
+        "country": "Former Serbia and Montenegro",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-SUN-QBTU.A",
+        "country": "Former U.S.S.R.",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-YUG-QBTU.A",
+        "country": "Former Yugoslavia",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-FRA-QBTU.A",
+        "country": "France",
+        "production": 5.139980785934488,
+        "consumption": 10.160861615462064
+    },
+    {
+        "id": "INTL.44-1-GUF-QBTU.A",
+        "country": "French Guiana",
+        "production": 0.004456024608,
+        "consumption": 0.016399173608
+    },
+    {
+        "id": "INTL.44-1-PYF-QBTU.A",
+        "country": "French Polynesia",
+        "production": 0.0019597704,
+        "consumption": 0.0160996454
+    },
+    {
+        "id": "INTL.44-1-GAB-QBTU.A",
+        "country": "Gabon",
+        "production": 0.46106271092212486,
+        "consumption": 0.05819153204367
+    },
+    {
+        "id": "INTL.44-1-GMB-QBTU.A",
+        "country": "Gambia, The",
+        "production": 0.0000276024,
+        "consumption": 0.0083266765
+    },
+    {
+        "id": "INTL.44-1-GEO-QBTU.A",
+        "country": "Georgia",
+        "production": 0.08078560311483281,
+        "consumption": 0.2529390632559227
+    },
+    {
+        "id": "INTL.44-1-DEU-QBTU.A",
+        "country": "Germany",
+        "production": 4.5289234050846785,
+        "consumption": 13.533301071094243
+    },
+    {
+        "id": "INTL.44-1-DDR-QBTU.A",
+        "country": "Germany, East",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-DEUW-QBTU.A",
+        "country": "Germany, West",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-GHA-QBTU.A",
+        "country": "Ghana",
+        "production": 0.5592951214360795,
+        "consumption": 0.3419199201387959
+    },
+    {
+        "id": "INTL.44-1-GIB-QBTU.A",
+        "country": "Gibraltar",
+        "production": 0,
+        "consumption": 0.19150255921288
+    },
+    {
+        "id": "INTL.44-1-GRC-QBTU.A",
+        "country": "Greece",
+        "production": 0.2946145901036986,
+        "consumption": 1.1580923347440768
+    },
+    {
+        "id": "INTL.44-1-GRL-QBTU.A",
+        "country": "Greenland",
+        "production": 0.0035616,
+        "consumption": 0.0120167632
+    },
+    {
+        "id": "INTL.44-1-GRD-QBTU.A",
+        "country": "Grenada",
+        "production": 0.00003111948,
+        "consumption": 0.00445630588
+    },
+    {
+        "id": "INTL.44-1-GLP-QBTU.A",
+        "country": "Guadeloupe",
+        "production": 0.0019802496,
+        "consumption": 0.0293243893
+    },
+    {
+        "id": "INTL.44-1-GUM-QBTU.A",
+        "country": "Guam",
+        "production": 0.000605472,
+        "consumption": 0.025556986999932238
+    },
+    {
+        "id": "INTL.44-1-GTM-QBTU.A",
+        "country": "Guatemala",
+        "production": 0.09236489661374467,
+        "consumption": 0.34127249318700514
+    },
+    {
+        "id": "INTL.44-1-GIN-QBTU.A",
+        "country": "Guinea",
+        "production": 0.011673144,
+        "consumption": 0.0528053037
+    },
+    {
+        "id": "INTL.44-1-GNB-QBTU.A",
+        "country": "Guinea-Bissau",
+        "production": 0.000017808,
+        "consumption": 0.0047274664
+    },
+    {
+        "id": "INTL.44-1-GUY-QBTU.A",
+        "country": "Guyana",
+        "production": 0.0002439696,
+        "consumption": 0.0380496592
+    },
+    {
+        "id": "INTL.44-1-HTI-QBTU.A",
+        "country": "Haiti",
+        "production": 0.001193136,
+        "consumption": 0.044718044
+    },
+    {
+        "id": "INTL.44-1-HITZ-QBTU.A",
+        "country": "Hawaiian Trade Zone",
+        "production": "--",
+        "consumption": "--"
+    },
+    {
+        "id": "INTL.44-1-HND-QBTU.A",
+        "country": "Honduras",
+        "production": 0.056638344,
+        "consumption": 0.192975672908343
+    },
+    {
+        "id": "INTL.44-1-HKG-QBTU.A",
+        "country": "Hong Kong",
+        "production": 0.001301616,
+        "consumption": 1.2804856786532355
+    },
+    {
+        "id": "INTL.44-1-HUN-QBTU.A",
+        "country": "Hungary",
+        "production": 0.3706087276472865,
+        "consumption": 1.057309327657573
+    },
+    {
+        "id": "INTL.44-1-ISL-QBTU.A",
+        "country": "Iceland",
+        "production": 0.17228714664,
+        "consumption": 0.2176014661341176
+    },
+    {
+        "id": "INTL.44-1-IND-QBTU.A",
+        "country": "India",
+        "production": 17.785372015287077,
+        "consumption": 31.782739499292763
+    },
+    {
+        "id": "INTL.44-1-IDN-QBTU.A",
+        "country": "Indonesia",
+        "production": 17.024393238698433,
+        "consumption": 8.02131123249278
+    },
+    {
+        "id": "INTL.44-1-IRN-QBTU.A",
+        "country": "Iran",
+        "production": 16.168095013434765,
+        "consumption": 12.063298399615197
+    },
+    {
+        "id": "INTL.44-1-IRQ-QBTU.A",
+        "country": "Iraq",
+        "production": 10.604831951884652,
+        "consumption": 2.483367381359099
+    },
+    {
+        "id": "INTL.44-1-IRL-QBTU.A",
+        "country": "Ireland",
+        "production": 0.2035954748406646,
+        "consumption": 0.6605973345313404
+    },
+    {
+        "id": "INTL.44-1-ISR-QBTU.A",
+        "country": "Israel",
+        "production": 0.41183789892540273,
+        "consumption": 0.9650156144360087
+    },
+    {
+        "id": "INTL.44-1-ITA-QBTU.A",
+        "country": "Italy",
+        "production": 1.4434116058284985,
+        "consumption": 6.7233638597735474
+    },
+    {
+        "id": "INTL.44-1-JAM-QBTU.A",
+        "country": "Jamaica",
+        "production": 0.004443096,
+        "consumption": 0.14650051108928164
+    },
+    {
+        "id": "INTL.44-1-JPN-QBTU.A",
+        "country": "Japan",
+        "production": 2.77044094852106,
+        "consumption": 18.98367230131041
+    },
+    {
+        "id": "INTL.44-1-JOR-QBTU.A",
+        "country": "Jordan",
+        "production": 0.030322157154584636,
+        "consumption": 0.3958256401202212
+    },
+    {
+        "id": "INTL.44-1-KAZ-QBTU.A",
+        "country": "Kazakhstan",
+        "production": 8.140283907626134,
+        "consumption": 3.4702662773254884
+    },
+    {
+        "id": "INTL.44-1-KEN-QBTU.A",
+        "country": "Kenya",
+        "production": 0.084338688,
+        "consumption": 0.33172224018206303
+    },
+    {
+        "id": "INTL.44-1-KIR-QBTU.A",
+        "country": "Kiribati",
+        "production": 0.000043068648,
+        "consumption": 0.001099096948
+    },
+    {
+        "id": "INTL.44-1-XKS-QBTU.A",
+        "country": "Kosovo",
+        "production": 0.06551335021403694,
+        "consumption": 0.09216816619723303
+    },
+    {
+        "id": "INTL.44-1-KWT-QBTU.A",
+        "country": "Kuwait",
+        "production": 7.123551451550373,
+        "consumption": 1.6070404956704598
+    },
+    {
+        "id": "INTL.44-1-KGZ-QBTU.A",
+        "country": "Kyrgyzstan",
+        "production": 0.1648401510169143,
+        "consumption": 0.22495045970647656
+    },
+    {
+        "id": "INTL.44-1-LAO-QBTU.A",
+        "country": "Laos",
+        "production": 0.4950702490739813,
+        "consumption": 0.5247100624195927
+    },
+    {
+        "id": "INTL.44-1-LVA-QBTU.A",
+        "country": "Latvia",
+        "production": 0.03134387168,
+        "consumption": 0.1651698668090886
+    },
+    {
+        "id": "INTL.44-1-LBN-QBTU.A",
+        "country": "Lebanon",
+        "production": 0.00703416,
+        "consumption": 0.36524698732934874
+    },
+    {
+        "id": "INTL.44-1-LSO-QBTU.A",
+        "country": "Lesotho",
+        "production": 0.004460904,
+        "consumption": 0.0166258239
+    },
+    {
+        "id": "INTL.44-1-LBR-QBTU.A",
+        "country": "Liberia",
+        "production": 0.000035616,
+        "consumption": 0.0187257017
+    },
+    {
+        "id": "INTL.44-1-LBY-QBTU.A",
+        "country": "Libya",
+        "production": 2.8935859312996457,
+        "consumption": 0.598120047960299
+    },
+    {
+        "id": "INTL.44-1-LTU-QBTU.A",
+        "country": "Lithuania",
+        "production": 0.03051425082586937,
+        "consumption": 0.28402072354869745
+    },
+    {
+        "id": "INTL.44-1-LUX-QBTU.A",
+        "country": "Luxembourg",
+        "production": 0.00776366472,
+        "consumption": 0.19271581820916772
+    },
+    {
+        "id": "INTL.44-1-MAC-QBTU.A",
+        "country": "Macau",
+        "production": 0.001932168,
+        "consumption": 0.05213673884428
+    },
+    {
+        "id": "INTL.44-1-MDG-QBTU.A",
+        "country": "Madagascar",
+        "production": 0.006807108,
+        "consumption": 0.061964598590058595
+    },
+    {
+        "id": "INTL.44-1-MWI-QBTU.A",
+        "country": "Malawi",
+        "production": 0.013641155523151162,
+        "consumption": 0.03369649196298597
+    },
+    {
+        "id": "INTL.44-1-MYS-QBTU.A",
+        "country": "Malaysia",
+        "production": 4.514935801613448,
+        "consumption": 3.9608163282722946
+    },
+    {
+        "id": "INTL.44-1-MDV-QBTU.A",
+        "country": "Maldives",
+        "production": 0.00002226,
+        "consumption": 0.0316927831
+    },
+    {
+        "id": "INTL.44-1-MLI-QBTU.A",
+        "country": "Mali",
+        "production": 0.00930468,
+        "consumption": 0.086468843
+    },
+    {
+        "id": "INTL.44-1-MLT-QBTU.A",
+        "country": "Malta",
+        "production": 0.00194623632,
+        "consumption": 0.1377687293291359
+    },
+    {
+        "id": "INTL.44-1-MTQ-QBTU.A",
+        "country": "Martinique",
+        "production": 0.000855220296,
+        "consumption": 0.031521281896
+    },
+    {
+        "id": "INTL.44-1-MRT-QBTU.A",
+        "country": "Mauritania",
+        "production": 0.004086936,
+        "consumption": 0.0614039489
+    },
+    {
+        "id": "INTL.44-1-MUS-QBTU.A",
+        "country": "Mauritius",
+        "production": 0.006268416,
+        "consumption": 0.10084678090302192
+    },
+    {
+        "id": "INTL.44-1-MEX-QBTU.A",
+        "country": "Mexico",
+        "production": 5.90985687062291,
+        "consumption": 7.986493522100019
+    },
+    {
+        "id": "INTL.44-1-FSM-QBTU.A",
+        "country": "Micronesia",
+        "production": 0,
+        "consumption": 0.0024597837
+    },
+    {
+        "id": "INTL.44-1-MDA-QBTU.A",
+        "country": "Moldova",
+        "production": 0.003341193385614,
+        "consumption": 0.14317712926737333
+    },
+    {
+        "id": "INTL.44-1-MNG-QBTU.A",
+        "country": "Mongolia",
+        "production": 1.502110369870241,
+        "consumption": 0.26783265249081484
+    },
+    {
+        "id": "INTL.44-1-MNE-QBTU.A",
+        "country": "Montenegro",
+        "production": 0.033207896439284,
+        "consumption": 0.048534417553346566
+    },
+    {
+        "id": "INTL.44-1-MSR-QBTU.A",
+        "country": "Montserrat",
+        "production": 0,
+        "consumption": 0.0004661798
+    },
+    {
+        "id": "INTL.44-1-MAR-QBTU.A",
+        "country": "Morocco",
+        "production": 0.06406431593566074,
+        "consumption": 0.8968476424037317
+    },
+    {
+        "id": "INTL.44-1-MOZ-QBTU.A",
+        "country": "Mozambique",
+        "production": 0.6948600048627015,
+        "consumption": 0.24634026197587583
+    },
+    {
+        "id": "INTL.44-1-NAM-QBTU.A",
+        "country": "Namibia",
+        "production": 0.008868384,
+        "consumption": 0.0743727378746098
+    },
+    {
+        "id": "INTL.44-1-NRU-QBTU.A",
+        "country": "Nauru",
+        "production": 0,
+        "consumption": 0.0009115247
+    },
+    {
+        "id": "INTL.44-1-NPL-QBTU.A",
+        "country": "Nepal",
+        "production": 0.038163127229219745,
+        "consumption": 0.14932116086732797
+    },
+    {
+        "id": "INTL.44-1-NLD-QBTU.A",
+        "country": "Netherlands",
+        "production": 1.4111446825769784,
+        "consumption": 3.8179563429203327
+    },
+    {
+        "id": "INTL.44-1-NLDA-QBTU.A",
+        "country": "Netherlands Antilles",
+        "production": 0.00271572,
+        "consumption": 0.191219495
+    },
+    {
+        "id": "INTL.44-1-NCL-QBTU.A",
+        "country": "New Caledonia",
+        "production": 0.00360612,
+        "consumption": 0.0758392169059482
+    },
+    {
+        "id": "INTL.44-1-NZL-QBTU.A",
+        "country": "New Zealand",
+        "production": 0.5946918269546112,
+        "consumption": 0.925824102221751
+    },
+    {
+        "id": "INTL.44-1-NIC-QBTU.A",
+        "country": "Nicaragua",
+        "production": 0.024788736,
+        "consumption": 0.0976352016
+    },
+    {
+        "id": "INTL.44-1-NER-QBTU.A",
+        "country": "Niger",
+        "production": 0.029156878813444198,
+        "consumption": 0.0358901867134442
+    },
+    {
+        "id": "INTL.44-1-NGA-QBTU.A",
+        "country": "Nigeria",
+        "production": 6.024305327190176,
+        "consumption": 1.7011671829825745
+    },
+    {
+        "id": "INTL.44-1-NIU-QBTU.A",
+        "country": "Niue",
+        "production": 0,
+        "consumption": 0.0001100056
+    },
+    {
+        "id": "INTL.44-1-PRK-QBTU.A",
+        "country": "North Korea",
+        "production": 0.5724834214890987,
+        "consumption": 0.3284995457690016
+    },
+    {
+        "id": "INTL.44-1-MKD-QBTU.A",
+        "country": "North Macedonia",
+        "production": 0.04496409686727226,
+        "consumption": 0.11162374797999235
+    },
+    {
+        "id": "INTL.44-1-MNP-QBTU.A",
+        "country": "Northern Mariana Islands",
+        "production": 0,
+        "consumption": 0
+    },
+    {
+        "id": "INTL.44-1-NOR-QBTU.A",
+        "country": "Norway",
+        "production": 8.857427879421154,
+        "consumption": 1.786945046065374
+    },
+    {
+        "id": "INTL.44-1-OMN-QBTU.A",
+        "country": "Oman",
+        "production": 3.4069135196418077,
+        "consumption": 1.3485596673544158
+    },
+    {
+        "id": "INTL.44-1-PAK-QBTU.A",
+        "country": "Pakistan",
+        "production": 1.9276637904420648,
+        "consumption": 3.4397235896852494
+    },
+    {
+        "id": "INTL.44-1-PSE-QBTU.A",
+        "country": "Palestinian Territories",
+        "production": 0.000002457504,
+        "consumption": 0.06784084920399999
+    },
+    {
+        "id": "INTL.44-1-PAN-QBTU.A",
+        "country": "Panama",
+        "production": 0.073876488,
+        "consumption": 0.4086818940143597
+    },
+    {
+        "id": "INTL.44-1-PNG-QBTU.A",
+        "country": "Papua New Guinea",
+        "production": 0.5054990798873973,
+        "consumption": 0.099309336646567
+    },
+    {
+        "id": "INTL.44-1-PRY-QBTU.A",
+        "country": "Paraguay",
+        "production": 0.44736365784,
+        "consumption": 0.4422268356835864
+    },
+    {
+        "id": "INTL.44-1-PER-QBTU.A",
+        "country": "Peru",
+        "production": 1.1672519969393036,
+        "consumption": 1.1855060965141537
+    },
+    {
+        "id": "INTL.44-1-PHL-QBTU.A",
+        "country": "Philippines",
+        "production": 0.6818019186335863,
+        "consumption": 2.085031069148001
+    },
+    {
+        "id": "INTL.44-1-POL-QBTU.A",
+        "country": "Poland",
+        "production": 2.361311534711677,
+        "consumption": 4.2898242065685785
+    },
+    {
+        "id": "INTL.44-1-PRT-QBTU.A",
+        "country": "Portugal",
+        "production": 0.2587570944,
+        "consumption": 1.0467108404019243
+    },
+    {
+        "id": "INTL.44-1-PRI-QBTU.A",
+        "country": "Puerto Rico",
+        "production": 0.02424683856,
+        "consumption": 0.2957352831149226
+    },
+    {
+        "id": "INTL.44-1-QAT-QBTU.A",
+        "country": "Qatar",
+        "production": 9.955482765837948,
+        "consumption": 2.046976960031
+    },
+    {
+        "id": "INTL.44-1-REU-QBTU.A",
+        "country": "Reunion",
+        "production": 0.0096501552,
+        "consumption": 0.0483209597
+    },
+    {
+        "id": "INTL.44-1-ROU-QBTU.A",
+        "country": "Romania",
+        "production": 1.0358510701042893,
+        "consumption": 1.3888732863664268
+    },
+    {
+        "id": "INTL.44-1-RUS-QBTU.A",
+        "country": "Russia",
+        "production": 64.27799556226529,
+        "consumption": 33.549305420210125
+    },
+    {
+        "id": "INTL.44-1-RWA-QBTU.A",
+        "country": "Rwanda",
+        "production": 0.004532136,
+        "consumption": 0.02152290012
+    },
+    {
+        "id": "INTL.44-1-SHN-QBTU.A",
+        "country": "Saint Helena",
+        "production": 0,
+        "consumption": 0.0001834565
+    },
+    {
+        "id": "INTL.44-1-KNA-QBTU.A",
+        "country": "Saint Kitts and Nevis",
+        "production": 0.0000676704,
+        "consumption": 0.0037990768
+    },
+    {
+        "id": "INTL.44-1-LCA-QBTU.A",
+        "country": "Saint Lucia",
+        "production": 0.000028154448,
+        "consumption": 0.009299183248
+    },
+    {
+        "id": "INTL.44-1-SPM-QBTU.A",
+        "country": "Saint Pierre and Miquelon",
+        "production": 0,
+        "consumption": 0.001273758
+    },
+    {
+        "id": "INTL.44-1-VCT-QBTU.A",
+        "country": "Saint Vincent/Grenadines",
+        "production": 0.0002226,
+        "consumption": 0.0030768488
+    },
+    {
+        "id": "INTL.44-1-WSM-QBTU.A",
+        "country": "Samoa",
+        "production": 0.00035731752,
+        "consumption": 0.00535251072
+    },
+    {
+        "id": "INTL.44-1-STP-QBTU.A",
+        "country": "Sao Tome and Principe",
+        "production": 0.00008904,
+        "consumption": 0.0025033078
+    },
+    {
+        "id": "INTL.44-1-SAU-QBTU.A",
+        "country": "Saudi Arabia",
+        "production": 27.86116043221723,
+        "consumption": 10.161014745852015
+    },
+    {
+        "id": "INTL.44-1-SEN-QBTU.A",
+        "country": "Senegal",
+        "production": 0.0085116596394,
+        "consumption": 0.15032936686163537
+    },
+    {
+        "id": "INTL.44-1-SRB-QBTU.A",
+        "country": "Serbia",
+        "production": 0.45543813519633486,
+        "consumption": 0.687867829449499
+    },
+    {
+        "id": "INTL.44-1-SYC-QBTU.A",
+        "country": "Seychelles",
+        "production": 0.00004452,
+        "consumption": 0.0159308712
+    },
+    {
+        "id": "INTL.44-1-SLE-QBTU.A",
+        "country": "Sierra Leone",
+        "production": 0.001691243568,
+        "consumption": 0.014085333068
+    },
+    {
+        "id": "INTL.44-1-SGP-QBTU.A",
+        "country": "Singapore",
+        "production": 0.0533574912,
+        "consumption": 3.64527770071088
+    },
+    {
+        "id": "INTL.44-1-SVK-QBTU.A",
+        "country": "Slovakia",
+        "production": 0.24776157612022429,
+        "consumption": 0.7073341851156353
+    },
+    {
+        "id": "INTL.44-1-SVN-QBTU.A",
+        "country": "Slovenia",
+        "production": 0.13733046457966674,
+        "consumption": 0.28259840772188605
+    },
+    {
+        "id": "INTL.44-1-SLB-QBTU.A",
+        "country": "Solomon Islands",
+        "production": 0.000050316504,
+        "consumption": 0.004658358804
+    },
+    {
+        "id": "INTL.44-1-SOM-QBTU.A",
+        "country": "Somalia",
+        "production": 0.0001531488,
+        "consumption": 0.0124096426
+    },
+    {
+        "id": "INTL.44-1-ZAF-QBTU.A",
+        "country": "South Africa",
+        "production": 5.913388642824927,
+        "consumption": 5.645541040096414
+    },
+    {
+        "id": "INTL.44-1-KOR-QBTU.A",
+        "country": "South Korea",
+        "production": 1.6544696108078791,
+        "consumption": 12.41399840322636
+    },
+    {
+        "id": "INTL.44-1-SSD-QBTU.A",
+        "country": "South Sudan",
+        "production": 0.29157891809331027,
+        "consumption": 0.0265936582
+    },
+    {
+        "id": "INTL.44-1-ESP-QBTU.A",
+        "country": "Spain",
+        "production": 1.5505969224497995,
+        "consumption": 5.789465678505985
+    },
+    {
+        "id": "INTL.44-1-LKA-QBTU.A",
+        "country": "Sri Lanka",
+        "production": 0.045312456,
+        "consumption": 0.35938687773158634
+    },
+    {
+        "id": "INTL.44-1-SDN-QBTU.A",
+        "country": "Sudan",
+        "production": 0.19987059347831734,
+        "consumption": 0.3447125976
+    },
+    {
+        "id": "INTL.44-1-SUR-QBTU.A",
+        "country": "Suriname",
+        "production": 0.0482108195175012,
+        "consumption": 0.04787891985976
+    },
+    {
+        "id": "INTL.44-1-SWE-QBTU.A",
+        "country": "Sweden",
+        "production": 1.55425693132,
+        "consumption": 2.1701954131401866
+    },
+    {
+        "id": "INTL.44-1-CHE-QBTU.A",
+        "country": "Switzerland",
+        "production": 0.6465395124,
+        "consumption": 1.2092114494415893
+    },
+    {
+        "id": "INTL.44-1-SYR-QBTU.A",
+        "country": "Syria",
+        "production": 0.2235393672647546,
+        "consumption": 0.4266317284201507
+    },
+    {
+        "id": "INTL.44-1-TWN-QBTU.A",
+        "country": "Taiwan",
+        "production": 0.45416734848608925,
+        "consumption": 3.791314941699021
+    },
+    {
+        "id": "INTL.44-1-TJK-QBTU.A",
+        "country": "Tajikistan",
+        "production": 0.21616440483079488,
+        "consumption": 0.2576709581101064
+    },
+    {
+        "id": "INTL.44-1-TZA-QBTU.A",
+        "country": "Tanzania",
+        "production": 0.09131213083197108,
+        "consumption": 0.1935209141471594
+    },
+    {
+        "id": "INTL.44-1-THA-QBTU.A",
+        "country": "Thailand",
+        "production": 2.737214010174651,
+        "consumption": 5.31774914450472
+    },
+    {
+        "id": "INTL.44-1-BHS-QBTU.A",
+        "country": "The Bahamas",
+        "production": 0.000031101672,
+        "consumption": 0.05471466227598497
+    },
+    {
+        "id": "INTL.44-1-TLS-QBTU.A",
+        "country": "Timor-Leste",
+        "production": 0.234930023182,
+        "consumption": 0.0074223259
+    },
+    {
+        "id": "INTL.44-1-TGO-QBTU.A",
+        "country": "Togo",
+        "production": 0.000828072,
+        "consumption": 0.03324229249294778
+    },
+    {
+        "id": "INTL.44-1-TON-QBTU.A",
+        "country": "Tonga",
+        "production": 0,
+        "consumption": 0.0023868576
+    },
+    {
+        "id": "INTL.44-1-TTO-QBTU.A",
+        "country": "Trinidad and Tobago",
+        "production": 1.4818382494334443,
+        "consumption": 0.7309107039460091
+    },
+    {
+        "id": "INTL.44-1-TUN-QBTU.A",
+        "country": "Tunisia",
+        "production": 0.12244566043317305,
+        "consumption": 0.4164024226338327
+    },
+    {
+        "id": "INTL.44-1-TUR-QBTU.A",
+        "country": "Turkey",
+        "production": 2.102167737706334,
+        "consumption": 6.609000040124458
+    },
+    {
+        "id": "INTL.44-1-TKM-QBTU.A",
+        "country": "Turkmenistan",
+        "production": 3.6281478174764095,
+        "consumption": 1.9639013559920369
+    },
+    {
+        "id": "INTL.44-1-TCA-QBTU.A",
+        "country": "Turks and Caicos Islands",
+        "production": 0,
+        "consumption": 0.0033590329
+    },
+    {
+        "id": "INTL.44-1-TUV-QBTU.A",
+        "country": "Tuvalu",
+        "production": 0,
+        "consumption": 0
+    },
+    {
+        "id": "INTL.44-1-USIQ-QBTU.A",
+        "country": "U.S. Pacific Islands",
+        "production": 0,
+        "consumption": 0.0042433738
+    },
+    {
+        "id": "INTL.44-1-USOH-QBTU.A",
+        "country": "U.S. Territories",
+        "production": 0,
+        "consumption": 0
+    },
+    {
+        "id": "INTL.44-1-VIR-QBTU.A",
+        "country": "U.S. Virgin Islands",
+        "production": 0.00006446496,
+        "consumption": 0.033903204118147776
+    },
+    {
+        "id": "INTL.44-1-UGA-QBTU.A",
+        "country": "Uganda",
+        "production": 0.048945288,
+        "consumption": 0.1302694487
+    },
+    {
+        "id": "INTL.44-1-UKR-QBTU.A",
+        "country": "Ukraine",
+        "production": 2.3344879269428014,
+        "consumption": 3.533277989600936
+    },
+    {
+        "id": "INTL.44-1-ARE-QBTU.A",
+        "country": "United Arab Emirates",
+        "production": 10.760580278914016,
+        "consumption": 4.606967409958773
+    },
+    {
+        "id": "INTL.44-1-GBR-QBTU.A",
+        "country": "United Kingdom",
+        "production": 5.4639569992516375,
+        "consumption": 8.095451414235999
+    },
+    {
+        "id": "INTL.44-1-USA-QBTU.A",
+        "country": "United States",
+        "production": 101.400918072,
+        "consumption": 100.434067942
+    },
+    {
+        "id": "INTL.44-1-URY-QBTU.A",
+        "country": "Uruguay",
+        "production": 0.13986732,
+        "consumption": 0.23159837522591073
+    },
+    {
+        "id": "INTL.44-1-UZB-QBTU.A",
+        "country": "Uzbekistan",
+        "production": 2.1913395838502714,
+        "consumption": 1.9024315802028733
+    },
+    {
+        "id": "INTL.44-1-VUT-QBTU.A",
+        "country": "Vanuatu",
+        "production": 0.000089894784,
+        "consumption": 0.003262026984
+    },
+    {
+        "id": "INTL.44-1-VEN-QBTU.A",
+        "country": "Venezuela",
+        "production": 3.5516998673783937,
+        "consumption": 2.447474728443394
+    },
+    {
+        "id": "INTL.44-1-VNM-QBTU.A",
+        "country": "Vietnam",
+        "production": 2.5563721056978084,
+        "consumption": 3.509085547214925
+    },
+    {
+        "id": "INTL.44-1-WAK-QBTU.A",
+        "country": "Wake Island",
+        "production": 0,
+        "consumption": 0.0194360456
+    },
+    {
+        "id": "INTL.44-1-ESH-QBTU.A",
+        "country": "Western Sahara",
+        "production": 0,
+        "consumption": 0.0037120955
+    },
+    {
+        "id": "INTL.44-1-YEM-QBTU.A",
+        "country": "Yemen",
+        "production": 0.13327309682395452,
+        "consumption": 0.1590196691139078
+    },
+    {
+        "id": "INTL.44-1-ZMB-QBTU.A",
+        "country": "Zambia",
+        "production": 0.1480037942473037,
+        "consumption": 0.20709655688327613
+    },
+    {
+        "id": "INTL.44-1-ZWE-QBTU.A",
+        "country": "Zimbabwe",
+        "production": 0.1434622068068248,
+        "consumption": 0.16865080875848742
+    }
+]
