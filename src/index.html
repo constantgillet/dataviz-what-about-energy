@@ -1,6 +1,33 @@
-<html>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>What about energy ?</title>
+</head>
   <body>
-      <canvas class="webgl"></canvas>
+    <canvas class="webgl"></canvas>
+    <div class="overlay">
+        <header class="header">
+            <h2 class="header__title"> What about energy </h2>
+            <a href="#" title="Link of github repo" class="header__repo-link">
+                <img src="/images/github.svg"/>
+            </a>
+        </header>
+        <div class="info-block">
+            <h1 class="info-block__title">The purpose of this project</h1>
+            <p class="info-block__description">As part of the MediaFutures data design project, we wanted to report on the energy production and consumption of different countries to show their energy impact. </p>
+        </div>
+        <div class="data-block" id="data-block">
+            <ul class="data-block__info-list">
+                <li class="data-block__info-list__item" id="country-data">France</li>
+                <li class="data-block__info-list__item">Production : <span id="production-data">x</span> Ghz</li>
+                <li class="data-block__info-list__item">Consumption : <span id="consumption-data">x</span> Ghz</li>
+            </ul>
+        </div>
+    </div>
     <script src="./index.js"></script>
   </body>
 </html>

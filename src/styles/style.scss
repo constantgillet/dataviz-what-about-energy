@@ -1,3 +1,21 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ZenAntique";
+    src: url("/fonts/ZenAntique-Regular.ttf") format("truetype");
+}
+
+* {
+    font-family: "Roboto", "sans-serif";
+}
+
+h1, h2, h3, h4 {
+    font-family: "ZenAntique", "serif";
+}
+
 .webgl
 {
     width: 100vw;
@@ -6,4 +24,68 @@
     top: 0;
     left: 0;
     outline: none;
+}
+
+.overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    color: white;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+
+    &__title {
+        margin: 0;
+    }
+
+    &__repo-link {
+        pointer-events: all;
+    }
+}
+
+.info-block {
+    width: 645px;
+    margin: 0 auto;
+    text-align: center;
+
+    &__title {
+
+    }
+
+    &__description {
+
+    }
+}
+
+.data-block {
+    width: fit-content;
+    padding: 12px;
+    position: absolute;
+    right: 24px;
+    bottom: 24px;
+    border: 1px solid #D3B82A;
+    color: #D3B82A;
+    opacity: 0;
+    transition: opacity 0.3s ease-out;
+
+    &.display {
+        opacity: 1;
+    }
+
+    &__info-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        &__item {
+            margin: 6px 0;
+        }
+    }
 }
